@@ -43,6 +43,7 @@ The system supports the recruiter. It does not replace the recruiter's final dec
 
 ## Data and Privacy
 We use public datasets and anonymised, consented resumes only. Datasets are **not** stored in this repository. See the dataset source on Kaggle: *https://www.kaggle.com/code/shadab80k/ai-resume-screening-system-using-nlp?scriptVersionId=310096514&cellId=2*.
+https://www.kaggle.com/datasets/sonalshinde123/ai-driven-resume-screening-dataset
 
 ## References
 1. G. Salton and C. Buckley, "Term-weighting approaches in automatic text retrieval," *Information Processing & Management*, vol. 24, no. 5, pp. 513–523, 1988.
